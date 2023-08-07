@@ -9,13 +9,10 @@ In this repository, you will find various Jupyter Notebook files (.ipynb) contai
 ## Projects Included
 
 **Project 1 - Mall Customers- Data Analysis and Clustering**
-   -  *Description: Implementing and visualizing a simple linear regression model to predict a continuous target variable based on one feature.*
+   -  *Description: Exploring unsupervised learning by applying K-means clustering to group similar data points.*
    - *Dataset: "Mall_Customers.csv"*
 
-**Project 2 - Image Classification**
+**Project 2 - Stamp_Verification - CNN**
    - *Description: Building a basic image classification model using a pre-trained deep learning model.*
-   - *Dataset: "image_classification_dataset.zip"*
+   - *Dataset: "Stamp Verification (Downloaded from Kaggle)"*
 
-**Project 3 - Clustering**
-   - *Description: Exploring unsupervised learning by applying K-means clustering to group similar data points.*
-   - *Dataset: "clustering_dataset.csv"*
